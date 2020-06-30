@@ -86,4 +86,5 @@ section{
     border-left: 7px solid cyan;
     border-image: linear-gradient(180deg ,blue,cyan);
     border-image-slice:1 ;
-    margin-bottom: 30px;}
+    margin-bottom: 30px;
+}
