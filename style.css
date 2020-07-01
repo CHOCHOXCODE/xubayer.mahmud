@@ -32,7 +32,7 @@ section{
     background-image: url("header-bg.png");
     background-repeat: no-repeat;
     width: 100%;
-    height: 350px;
+    height: 550px;
     margin-bottom: 100px;
 }
 .a-button{
@@ -47,15 +47,15 @@ section{
     background-image: url("biography-bg.png");
     background-repeat: no-repeat;
     width: 100%;
-    height: 600px;
-    margin-bottom: 150px;
+    height: 550px;
+    margin-bottom: 200px;
 }
 .latest-work-bg{
     background-image: url("latest-work-bg.png");
     background-repeat: no-repeat;
     width: 100%;
-    height: 350px;
-    margin-bottom: 100px;
+    height: 550px;
+    margin-bottom: 125px;
 }
 .align{
     text-align: center;
