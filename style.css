@@ -78,15 +78,22 @@ section{
     height: 450px;
 }
 .feedback{
-    width: 39%;
+    width: 20%;
     float: left;
-    margin-left: 7%;
-    margin-top: 4%;
-    margin-bottom: 100px;
+    margin-left: 2%;
+    padding-left: 1.5%;
+    
     box-shadow:10px 10px 40px slategrey;
     border-radius: 15px;
     border-left:7px solid cyan;
+    height: 375px;
 }
 #feedback2{
     border-left:7px solid rgb(79, 31, 211);
+}
+#feedback3{
+    border-left:7px solid rgb(226, 57, 99);
+}
+#feedback4{
+    border-left:7px solid rgb(228, 224, 23);
 }
